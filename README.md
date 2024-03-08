@@ -1,8 +1,9 @@
-# Hi there 👋
-# I'm Camille Sze Pui Ko - AI/Data Scientist
+# Hello 👋
+## Camille Sze Pui Ko - AI/Data Scientist
 
-## Connect
-- **Portfolio**: [camillekokoko.github.io](www.camillekokoko.github.io)
-- **LinkedIn**: [linkedin.com/in/camilleko](www.linkedin.com/in/camilleko)
+### Connect with Me
+- **Portfolio**: [camillekokoko.github.io](https://www.camillekokoko.github.io)
+- **LinkedIn**: [linkedin.com/in/camilleko](https://www.linkedin.com/in/camilleko)
+
 
 
