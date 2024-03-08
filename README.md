@@ -2,7 +2,7 @@
 # I'm Camille Sze Pui Ko - AI/Data Scientist
 
 ## Connect
-- **Website**: [camillekokoko.github.io](#)
-- **LinkedIn**: [linkedin.com/in/camilleko](#)
+- **Portfolio**: [camillekokoko.github.io](www.camillekokoko.github.io)
+- **LinkedIn**: [linkedin.com/in/camilleko](www.linkedin.com/in/camilleko)
 
 
