@@ -1,5 +1,5 @@
 # Hello There! 👋🌟
-## I'm Camille Sze Pui Ko - Full stack SWE 🚀
+## I'm Camille - Full stack SWE 🚀 
 
 ### 🌐 Connect with Me
 - **LinkedIn**: [linkedin.com/in/camilleko](https://www.linkedin.com/in/camilleko) 💼
