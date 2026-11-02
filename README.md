@@ -5,7 +5,7 @@
 - **LinkedIn**: [linkedin.com/in/camilleko](https://www.linkedin.com/in/camilleko) 💼
 - **Portfolio**: [camillekokoko.github.io](https://camillekokoko.github.io) 📁 (a bit outdated now but brings back good memories of the uni job hunting days)
 
-### Projects in progress
+### Projects in progress 🚧 
 #### Project A — Python Integration Lab
 Merchant → Checkout.com Sandbox
 REST API、Authentication、Webhooks、Refund、API Error Handling
